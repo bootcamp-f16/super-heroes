@@ -2,7 +2,11 @@ Batman
 Captain America
 Silver Surfer
 Spiderman
-Super Man
+Antman
+Superman
+Wonderwoman
+Psylocke
+Wanda Maximoff
 Hulk
 Thor
 Iron Man
